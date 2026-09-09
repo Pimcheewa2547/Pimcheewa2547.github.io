@@ -1,6 +1,5 @@
 # Pimcheewa2547.github.io
 Visual Reality and Augmented Reality By Pimcheewa Sansuk
-<!DOCTYPE html>
 <html lang="th">
 <head>
     <meta charset="UTF-8">
