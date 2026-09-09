@@ -1,2 +1,2 @@
 # Pimcheewa2547.github.io
-โย พิมพ์ชีวา
+Visual Reality and Augmented Reality By Pimcheewa Sansuk
