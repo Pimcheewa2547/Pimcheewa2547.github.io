@@ -262,7 +262,7 @@ Visual Reality and Augmented Reality By Pimcheewa Sansuk
             <h1>Pimcheewa Sansuk</h1>
             <div class="pen-name">นามปากกา: Raddish47 🍃</div>
             <p class="bio">
-                ยินดีต้อนรับสู่พื้นที่สร้างสรรค์ของหัวไชเท้า Introvert ติดดิน Interactive
+                ยินดีต้อนรับสู่พื้นที่สร้างสรรค์ของหัวไชเท้า Introvert ติดดิน
             </p>
             <div class="cta-buttons">
                 <a href="#projects" class="btn btn-primary">ดูผลงาน</a>
