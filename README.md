@@ -262,7 +262,7 @@ Visual Reality and Augmented Reality By Pimcheewa Sansuk
             <h1>Pimcheewa Sansuk</h1>
             <div class="pen-name">นามปากกา: Raddish47 🍃</div>
             <p class="bio">
-                ยินดีต้อนรับสู่พื้นที่สร้างสรรค์ของผม/ดิฉัน สัมผัสประสบการณ์ธีมหัวไชเท้าเขียว-ขาวและบรรยากาศใบไม้พลิ้วไหวแบบ 3 มิติ Interactive
+                ยินดีต้อนรับสู่พื้นที่สร้างสรรค์ของหัวไชเท้าติดดิน Interactive
             </p>
             <div class="cta-buttons">
                 <a href="#projects" class="btn btn-primary">ดูผลงาน</a>
